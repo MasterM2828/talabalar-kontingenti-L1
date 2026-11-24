@@ -1,3 +1,3 @@
 # Talabalar kontingenti axborot tizimi
-Fakultet: Axborot texnologiyalari fakulteti
+Fakultet: Kompyuter injiniringi fakulteti
 Muallif: Abduganiyev Mehroj, variant 1

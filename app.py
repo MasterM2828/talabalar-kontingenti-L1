@@ -19,4 +19,5 @@ def show_students():
 if __name__ == "__main__":
     add_student("Aliyev Vali", "DI-101")
     add_student("Karimova Madina", "DI-102")
+    print("DI-101:", group_list("DI-101"))
     show_students()

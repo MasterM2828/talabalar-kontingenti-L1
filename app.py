@@ -13,4 +13,6 @@ def show_students():
 
 
 if __name__ == "__main__":
+    add_student("Aliyev Vali", "DI-101")
+    add_student("Karimova Madina", "DI-102")
     show_students()

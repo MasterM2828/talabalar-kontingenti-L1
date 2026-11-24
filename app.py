@@ -7,6 +7,10 @@ def add_student(name, group):
     print(f"Qo'shildi: {name} ({group})")
 
 
+def group_list(group):
+    return [s["name"] for s in students if s["group"] == group]
+
+
 def show_students():
     for i, s in enumerate(students, 1):
         print(f"{i}. {s['name']} - {s['group']}")
